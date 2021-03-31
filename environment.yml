@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - bioconda
   - defaults
+  - c
 dependencies:
   - python =3.8
   - pip
@@ -10,3 +11,15 @@ dependencies:
   - blast =2.9.0
   - hmmer =3.2.1
   - prodigal =2.6.3
+  - r
+  - r-ggplot2
+  - r-stringi
+  - r-ggplot2
+  - r-reshape
+  - r-reshape2
+  - r-tidyverse
+  - r-argparse
+  - r-ggdendro
+  - r-pvclust
+  - metabat2
+
